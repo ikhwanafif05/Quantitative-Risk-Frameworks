@@ -15,7 +15,7 @@ This repository contains algorithmic tools designed to stress-test equity portfo
 * **Metric:** `Beta > 0` indicates the asset acts as a hedge (gains value when Ringgit weakens). `R-Squared` measures the reliability of this correlation.
 
 **Visual Output:**
-*<img width="1187" height="690" alt="Unknown-2" src="https://github.com/user-attachments/assets/64697964-1b6a-45e4-b040-28f7bf19beb7" />*
+*<img width="1384" height="783" alt="Unknown" src="https://github.com/user-attachments/assets/c146b6e0-de8a-4349-a223-4c5b3ff1fb12" />*
 
 ---
 
@@ -25,7 +25,7 @@ This repository contains algorithmic tools designed to stress-test equity portfo
 * **Metric:** `Max Drawdown (%)` vs. `KLCI Benchmark`.
 
 **Visual Output:**
-*<img width="1384" height="783" alt="Unknown" src="https://github.com/user-attachments/assets/525283d0-9097-4254-bde5-9441504c58b8" />*
+*<img width="1187" height="690" alt="Unknown-2" src="https://github.com/user-attachments/assets/c6a76451-3def-489d-913e-d440fca78d4f" />*
 
 ---
 
